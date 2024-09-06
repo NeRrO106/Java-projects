@@ -1,7 +1,3 @@
-Iată un exemplu de fișier **README** general pentru tot repository-ul tău de proiecte Java:
-
----
-
 # Java Projects
 
 This repository contains various beginner Java projects developed during my university studies. Each project is designed to enhance understanding of basic Java concepts and to solve practical problems using object-oriented programming principles.
